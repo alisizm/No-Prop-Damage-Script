@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/License-Free-green?style=flat-square)
 [![FiveM](https://img.shields.io/badge/Platform-FiveM-orange?style=flat-square)](https://fivem.net/)
 [![Framework](https://img.shields.io/badge/Framework-QBCore%20%7C%20ESX%20%7C%20Qbox-blue?style=flat-square)](#)
+https://alisizm.tebex.io
 
 A fully optimized FiveM script that prevents environmental objects (props) from being damaged or destroyed by vehicle impacts or external factors.
 
